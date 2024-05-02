@@ -2,4 +2,4 @@
 
 Good day team! This repository was established as a part of a simple Git and GitHub basics workshop in 2023.
 
-![Git and Github](https://github.com/kayndrigs/Git-and-Github-Workshop/assets/103131412/653565c2-cb3e-45a8-99c5-b4fad1aae464)
+![Git and Github](https://github.com/kayndrigs/Git-and-Github-Workshop/assets/103131412/c1afaea2-e4d7-423c-af0e-3a81485faee8)
